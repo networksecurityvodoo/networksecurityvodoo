@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @networksecurityvodoo
+- 👋 Hi, I’m Jannik ( @networksecurityvodoo)
 
-- I’m interested in ... IT-Security and more.
+- I’m interested in ... IT-Security, DevOps and more.
 
-- 👀 looking to collaborate on ... documentation in projects.
+- 👀ing to collaborate... documentation & sourcecode in OpenSource projects.
 
 <!---
 - 📫 How to reach me ...
