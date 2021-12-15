@@ -1,9 +1,25 @@
+
 - 👋 Hi, I’m Jannik ( @networksecurityvodoo)
 
 - I’m interested in ... IT-Security, DevOps and more.
 
 - 👀ing to collaborate... documentation & sourcecode in OpenSource projects.
 
+
+```text
+   _________________________________
+  /                                 \
+  |        there is no cloud        |
+  \______________________________ '\
+                             ()    \\
+                               O    \\  .
+                                 o  |\\/|
+                                    / " '\
+                                    . .   .
+                                   /    ) |
+                                  '  _.'  |
+                                  '-'/    \
+```                                  
 
 
 
