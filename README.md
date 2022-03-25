@@ -1,15 +1,12 @@
 
 - 👋 Hi, I’m Jannik ( @networksecurityvodoo)
-
 - I’m interested in ... IT-Security, DevOps and more.
-
-- 👀ing to collaborate... documentation & sourcecode in OpenSource projects.
 
 
 ```text
    _________________________________
   /                                 \
-  |       What am I doing here ?    |
+  |       Look a Unicorn !         |
   \______________________________ '\
                              ()    \\
                                O    \\  .
