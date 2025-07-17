@@ -1,6 +1,6 @@
+👋 Hi, I’m Jannik ( @networksecurityvodoo)
 
-- 👋 Hi, I’m Jannik ( @networksecurityvodoo)
-- I’m interested in ... IT-Security, DevOps and more IT stuff.
+I’m interested in ... IT-Security, DevOps and more IT stuff.
 
 Some Projects - Which I support ❤️:
 
